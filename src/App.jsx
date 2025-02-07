@@ -5,7 +5,7 @@ import Search from "./components/Search";
 import Playingvideo from "./components/Playingvideo";
 import Home from "./components/Home";
 import { useprovider } from "./Contextapi/Provider";
-import Loader from "./Loader/loader";
+import Loader from "./Loader/Loader";
 
 // import { useprovider } from "./Contextapi/Provider";
 
